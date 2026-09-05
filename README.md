@@ -66,12 +66,12 @@ Grade: A+
 Assignment Objective:
 This project demonstrates the use of basic Python programming concepts, including user input, arithmetic calculations, conditional statements, and formatted output.
 
-#
-#
-#
-#
-#
-#
+#.........
+#.........
+#.........
+#.........
+#.........
+#.........
 
 
 Project # 2: Simple Shopping Cart
@@ -101,7 +101,9 @@ Subtotal	      Discount
 Below 1000	      No discount
 
 
+
 Technologies Used:
+
 * Python 3
 * Python input() for taking user input
 * Conditional statements (if, elif, else) for discount calculation
