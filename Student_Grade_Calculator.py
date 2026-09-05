@@ -32,3 +32,4 @@ elif 50 <= average_marks <=59:
 else:
     grade= "F"
     print(f"Grade: {grade}")
+
