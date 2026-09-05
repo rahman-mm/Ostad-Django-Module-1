@@ -1,5 +1,6 @@
 name= input("Give me the customer name: ")
 
+
 product_1= input("First product name: ")
 product_1_price= float(input("Price of first product: "))
 
@@ -11,6 +12,7 @@ product_3_price= float(input("Price of third product: "))
 
 
 subtotal= product_1_price + product_2_price + product_3_price
+
 
 if subtotal >= 5000:
     discount= subtotal*(20/100)
@@ -26,6 +28,7 @@ else:
 
 
 total= subtotal-discount
+
 
 print(f"Customer Name: {name}")
 print()
@@ -45,5 +48,3 @@ print()
 print(f"Subtotal: {subtotal}")
 print(f"Discount: {discount}")
 print(f"Final Total: {total}")
-
-
