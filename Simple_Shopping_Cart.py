@@ -17,10 +17,10 @@ subtotal= product_1_price + product_2_price + product_3_price
 if subtotal >= 5000:
     discount= subtotal*(20/100)
 
-elif 3000 <= subtotal <= 4999:
+elif subtotal >= 3000:
     discount= subtotal*(10/100)
 
-elif 1000 <= subtotal <= 2999:
+elif subtotal >= 1000:
     discount= subtotal*(5/100)
 
 else:

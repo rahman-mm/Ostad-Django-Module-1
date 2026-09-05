@@ -17,20 +17,17 @@ print(f"Average: {average_marks}")
 
 if average_marks >= 80:
     grade= "A+"
-    print(f"Grade: {grade}")
 
-elif 70 <= average_marks <=79:
+elif average_marks >=70:
     grade= "A"
-    print(f"Grade: {grade}")
 
-elif 60 <= average_marks <=69:
+elif average_marks >=60:
     grade= "B"
-    print(f"Grade: {grade}")
 
-elif 50 <= average_marks <=59:
+elif average_marks >=50:
     grade= "C"
-    print(f"Grade: {grade}")
 
 else:
     grade= "F"
-    print(f"Grade: {grade}")
+
+print(f"Grade: {grade}")
