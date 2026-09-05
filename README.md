@@ -1,4 +1,4 @@
-Student Grade Calculator
+Project # 1: Student Grade Calculator
 
 
 Project Description:
@@ -72,7 +72,7 @@ This project demonstrates the use of basic Python programming concepts, includin
 
 
 
-Simple Shopping Cart
+Project # 2: Simple Shopping Cart
 
 Project Description:
 
